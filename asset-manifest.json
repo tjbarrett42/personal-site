@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personal-site/static/css/main.170b584d.css",
+    "main.js": "/personal-site/static/js/main.7d9449f2.js",
+    "static/media/skiier.png": "/personal-site/static/media/skiier.1e88c1a127ec28911357.png",
+    "static/media/tdee.png": "/personal-site/static/media/tdee.a02b7008c839171ebfba.png",
+    "static/media/temp1.jpeg": "/personal-site/static/media/temp1.e829910d1a0a3791f95e.jpeg",
+    "index.html": "/personal-site/index.html",
+    "main.170b584d.css.map": "/personal-site/static/css/main.170b584d.css.map",
+    "main.7d9449f2.js.map": "/personal-site/static/js/main.7d9449f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.170b584d.css",
+    "static/js/main.7d9449f2.js"
+  ]
+}
