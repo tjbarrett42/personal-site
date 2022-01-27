@@ -8,8 +8,8 @@ const ContactSection = () => {
     return (
         <Fragment>
             <SectionHeader header="Contact" variant={"h2"}/>
-            <Typography sx={{m:6}}align="center" variant="body2">
-                timothy@jamesbarrett.us
+            <Typography sx={{m:6}}align="center" variant="body1">
+                Email: timothy@jamesbarrett.us
             </Typography>
         </Fragment>
     )
