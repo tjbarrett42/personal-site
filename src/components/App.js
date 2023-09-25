@@ -23,7 +23,6 @@ const App = () => {
               <Container>
                   <ButtonAppBar ></ButtonAppBar>
                   <IntroSection/>
-                  <AboutSection/>
                   <Divider sx={{m: 5 }}/>
                   <ProjectsSection/>
                   <Divider sx={{m: 5}}/>
