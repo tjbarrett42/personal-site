@@ -7,7 +7,7 @@ import SectionHeader from "./SectionHeader";
 const ProjectSection = () => {
     return (
         <Fragment>
-            <SectionHeader header="Projects" variant={"h2"}/>
+            <SectionHeader header="projects" variant={"h2"}/>
             <br/>
             <Grid container
                   direction="row"

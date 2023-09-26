@@ -24,7 +24,11 @@ export default function ButtonAppBar() {
                         <IconButton color="inherit" aria-label="Github" href="https://github.com/tjbarrett42" target="_blank">
                             <GitHubIcon/>
                         </IconButton>
-                        <Button color="primary" variant="contained" size="small" href="https://github.com/tjbarrett42/resume/blob/main/TimothyBarrettResume.pdf" target="_blank">resume</Button>
+                        <Button color="primary" variant="contained" size="large" href="https://github.com/tjbarrett42/resume/blob/main/TimothyBarrettResume.pdf" target="_blank">
+                            <Typography variant="subtitle1" component="div">
+                                resume
+                            </Typography>
+                        </Button>
                     </Stack>
 
                 </Toolbar>

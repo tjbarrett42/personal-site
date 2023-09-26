@@ -29,8 +29,16 @@ const ProjectCard = ({ title, desc, link, githubLink, chips, pic}) => {
                 <ChipLiner chips={chips}/>
             </CardContent>
             <CardActions>
-                <Button color="primary" variant="contained" size="small" href={link} target="_blank">See Demo</Button>
-                <Button size="small" href={githubLink} target="_blank">Repository</Button>
+                <Button color="primary" variant="contained" size="large" href={link} target="_blank">
+                <Typography variant="subtitle1" component="div">
+                    See Demo
+                </Typography>
+                </Button>
+                <Button size="large" href={githubLink} target="_blank">
+                    <Typography variant="subtitle1" component="div">
+                        Repo
+                    </Typography>
+                </Button>
             </CardActions>
         </Card>
     );

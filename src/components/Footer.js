@@ -7,7 +7,7 @@ const Footer = () => {
         <footer >
             <Box className="footer-box" textAlign="center" >
                 <Typography variant="body1">
-                    Timothy Barrett &copy; {new Date().getFullYear()}
+                    timothy barrett &copy; {new Date().getFullYear()}
                 </Typography>
             </Box>
         </footer>

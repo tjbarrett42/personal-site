@@ -11,7 +11,7 @@ import Box from "@mui/material/Box";
 const IntroSection = () => {
     return (
         <Fragment>
-            <SectionHeader header="Timothy Barrett" variant="h1"/>
+            <SectionHeader header="timothy barrett" variant="h1"/>
             <br/>
 
 
